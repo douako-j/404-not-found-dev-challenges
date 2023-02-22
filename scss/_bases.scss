@@ -16,6 +16,9 @@ body {
   font-family: var(--space-mono-font);
   color: var(--text-color);
   font-size: 1.6rem;
+  @include xs {
+    padding: 2rem 0 2.4rem 2.4rem;
+  }
 }
 
 ul {
