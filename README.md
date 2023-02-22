@@ -6,13 +6,13 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://douako-j.github.io/404-not-found-dev-challenges/">
       Demo
     </a>
-    <!--span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <span> | </span>
+    <a href="https://github.com/douako-j/404-not-found-dev-challenges">
       Solution
-    </a-->
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
